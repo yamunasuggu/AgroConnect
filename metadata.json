@@ -1,0 +1,6 @@
+{
+  "name": "AgroConnect – Farm-to-Market Platform",
+  "description": "Digital agriculture marketplace connecting farmers directly with buyers with crop listings, order tracking, real-time demand indicators, and AI Farmer Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
